@@ -5,7 +5,7 @@
 [cite_start]An enterprise-grade implementation of the **Multi-Agent Design Pattern** featuring a FastAPI backend orchestration framework utilizing the Groq SDK (`llama-3.1-8b-instant`)[cite: 3]. [cite_start]This system serves as an automated **FYP Proposal Evaluator** [cite: 4][cite_start], delegating subtasks to heavily isolated specialist agents executing distinct internal cognitive patterns[cite: 4, 9].
 
 ## 🏗️ Architecture Blueprint
-
+```text
                         +----------------------+
                         |  Client / API Layer  |
                         +-----------+----------+
@@ -28,7 +28,7 @@
                          +-----------------+  +-----------------+
                          | Literature &    |  | Timeline &      |
                          | Systems Tools   |  | Scope Tools     |
-                         +-----------------+  +-----------------+
+                         +-----------------+  +-----------------+            
 
 ## ⚙️ Core Architectural Principles
 * **Multi-Pattern Composition:** Integrates Reflection, Tool Use, and ReAct paradigms into one multi-agent ecosystem[cite: 11, 19].
