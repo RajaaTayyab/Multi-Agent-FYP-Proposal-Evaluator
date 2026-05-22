@@ -1,0 +1,29 @@
+{
+  "strong_proposal": {
+    "title": "AI-Based Cloudburst Early Warning System for KPK",
+    "problem_statement": "KPK faces devastating cloudburst events annually with no AI-based early warning system. PMD ground stations are absent in high-risk mountainous districts.",
+    "technical_description": "ConvLSTM model trained on NASA GPM-IMERG satellite data and ERA5 atmospheric variables. FastAPI backend. React dashboard. Deployed on AWS.",
+    "technology_stack": "Python, TensorFlow, FastAPI, React, PostgreSQL, AWS",
+    "proposed_months": 10,
+    "team_size": 3,
+    "deliverables_count": 6
+  },
+  "weak_proposal": {
+    "title": "A Chatbot for University Students",
+    "problem_statement": "Students sometimes have questions about university procedures.",
+    "technical_description": "We will make a chatbot using Python.",
+    "technology_stack": "Python",
+    "proposed_months": 3,
+    "team_size": 2,
+    "deliverables_count": 2
+  },
+  "ethics_flagged_proposal": {
+    "title": "AI-Based Facial Recognition Attendance System for Universities",
+    "problem_statement": "Manual attendance is time-consuming. We propose using facial recognition cameras in classrooms to automatically mark attendance.",
+    "technical_description": "DeepFace library with custom fine-tuning on student photos. Cameras installed in all classrooms. Central database stores facial embeddings. Real-time attendance marking.",
+    "technology_stack": "Python, DeepFace, OpenCV, PostgreSQL, FastAPI, React",
+    "proposed_months": 8,
+    "team_size": 3,
+    "deliverables_count": 5
+  }
+}
