@@ -1,9 +1,5 @@
 # Multi-Agent FYP Proposal Evaluator
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_SDK-llama--3.1--8b--instant-purple?style=flat)
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python&logoColor=white)
-![Async](https://img.shields.io/badge/Async-asyncio-orange?style=flat)
 
 An enterprise-grade hub-and-spoke multi-agent system that automates the evaluation of Final Year Project proposals. A central orchestrator delegates to four isolated specialist agents — each running a distinct cognitive pattern — and synthesizes their outputs into a structured assessment report.
 
