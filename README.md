@@ -1,7 +1,7 @@
 # Multi-Agent FYP Proposal Evaluator
 
 
-An enterprise-grade hub-and-spoke multi-agent system that automates the evaluation of Final Year Project proposals. A central orchestrator delegates to four isolated specialist agents — each running a distinct cognitive pattern — and synthesizes their outputs into a structured assessment report.
+An enterprise-grade hub-and-spoke multi-agent system that automates the evaluation of Final Year Project proposals. A central orchestrator delegates to four isolated specialist agents  each running a distinct cognitive pattern  and synthesizes their outputs into a structured assessment report.
 
 ---
 
@@ -136,6 +136,3 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
-## License
-
-MIT
