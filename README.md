@@ -11,7 +11,7 @@ An enterprise-grade hub-and-spoke multi-agent system that automates the evaluati
 Client / API Layer
         │
         ▼
-   Orchestrator  ──  Isolation · Conflict Detection · Synthesis
+   Orchestrator    Isolation · Conflict Detection · Synthesis
    ┌─────┬─────┬─────┬─────┐
    ▼     ▼     ▼     ▼
 Technical  Novelty   Feasibility  Ethics
